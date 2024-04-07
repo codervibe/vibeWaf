@@ -1,5 +1,10 @@
 # vibeWaf 
 ### 一个 由 Sqlmap 改造而来的 WAF 检测脚本
+
+###  下载地址
+~~~
+git clone https://github.com/codervibe/vibeWaf.git
+~~~
 * 使用方法
 ~~~bash
 python3 ./identYwaf.py 
