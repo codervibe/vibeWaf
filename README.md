@@ -1,4 +1,5 @@
 # vibeWaf 
+### 一个 由 Sqlmap 改造而来的 WAF 检测脚本
 * 使用方法
 ~~~bash
 python3 ./identYwaf.py 
